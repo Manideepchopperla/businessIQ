@@ -8,11 +8,11 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-  origin: ['http://localhost:5173',process.env.FRONTEND_URL],
-  credentials: true,
-}
-));
+  origin: ['http://localhost:5173', 'https://business-iq.vercel.app'],
+  credentials: true
+}));
 app.use(express.json());
+
 
 // Sample SEO headlines for regeneration
 const seoHeadlines = [
