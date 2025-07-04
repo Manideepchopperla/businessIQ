@@ -11,9 +11,11 @@ A sleek, responsive dashboard that simulates how small businesses can visualize 
 
 ---
 
-## 🎯 Objective
+## 🎯Screen Recording
 
-Build a fully functional mini dashboard for local businesses to simulate SEO content and Google Business insights using React, Tailwind CSS, Node.js, and Express.
+
+https://github.com/user-attachments/assets/d2573a48-2087-4cde-954c-352f59a8521c
+
 
 ---
 
